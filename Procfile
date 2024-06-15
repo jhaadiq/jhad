@@ -1,1 +1,1 @@
-worker: bash JoKeRUB
+worker: bash jhad
